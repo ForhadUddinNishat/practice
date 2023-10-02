@@ -1,0 +1,16 @@
+       
+        <a href="#"><h1>Practice<span>.</span></h1></a>
+
+        <nav>
+            <ul class="navbar">
+                <li><a href="#">service</a></li>
+                <li><a href="#">project</a></li>
+                <li><a href="#">about</a></li>
+                <li><a href="#">information</a></li>
+            </ul>
+            
+        </nav>
+
+
+        <p class="chef">jeo root</p>
+                    <p>cheif chef at salad</p>
